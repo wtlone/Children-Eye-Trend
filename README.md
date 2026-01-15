@@ -1,2 +1,2 @@
-# Children-Eye-Trend
-Used for record the children‘s’
+# 儿童视力跟踪记录系统
+# 用途：为近视的孩子视力进行动态监督
